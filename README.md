@@ -9,7 +9,9 @@
 
 VoteSecure is a cutting-edge digital voting verification platform that combines blockchain technology with advanced biometric verification to create a secure, transparent, and accessible electoral system. Designed specifically for the Indian electoral process, VoteSecure addresses key challenges in traditional voting systems: fraud prevention, accessibility for diverse populations, and real-time monitoring of electoral activities.
 
-![Integration Flowchart](/Integration%20Flowchart%20(1).png)
+<div align="center">
+  <img src="/imgs/LoginPage.jpg" alt="Login Page" width="700px">
+</div>
 
 ## ✨ Key Features
 
@@ -46,12 +48,16 @@ VoteSecure is a cutting-edge digital voting verification platform that combines 
 ## 🖥️ User Interface
 
 ### Dashboard Overview
-![Dashboard](/Voter_Verification_and_Blockchain_Integration_Flowchart-removebg-preview.png)
+<div align="center">
+  <img src="/imgs/loginpage2.jpg" alt="Dashboard" width="700px">
+</div>
 
 The dashboard provides election officials with real-time insights into voting patterns, verification statistics, and potential fraud alerts. The intuitive interface enables quick response to issues and efficient management of voting operations.
 
 ### Voter Verification Process
-![Verification Process](/Conversion%20output.png)
+<div align="center">
+  <img src="/imgs/Voter VerificationProcess.jpg" alt="Verification Process" width="700px">
+</div>
 
 The dual-officer verification system ensures that any manual verification requires two separate election officials to authenticate the process, significantly reducing the risk of internal fraud.
 
@@ -88,20 +94,14 @@ VoteSecure implements multiple layers of security:
 
 ## 🏆 Hackathon Project
 
-This project was developed for the [Hackathon Name] as a solution to modernize the Indian electoral system. The team focused on creating a secure, accessible, and transparent voting process that addresses the unique challenges of conducting elections in the world's largest democracy.
+This project was developed for the GDG OnCampus Solution Challenge as a solution to modernize the Indian electoral system. The team focused on creating a secure, accessible, and transparent voting process that addresses the unique challenges of conducting elections in the world's largest democracy.
 
 ## 👥 Team
 
-- [Team Member 1]
-- [Team Member 2]
-- [Team Member 3]
-- [Team Member 4]
+- Uday Sri Kumar
+- Ayush Shetty
+- Sai Suthirth
 
-## 📝 License
-
-[License information]
-
----
 
 <p align="center">
   Built with ❤️ for secure and transparent elections
