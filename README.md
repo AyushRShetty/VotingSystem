@@ -1,13 +1,13 @@
-# VoteSecure: Blockchain-Powered Voting Verification System
+# BharatVerify: Blockchain-Powered Voting Verification System
 
 <div align="center">
-  <img src="/public/mainlogo-removebg-preview.png" alt="VoteSecure Logo" width="300px">
+  <img src="/imgs/ELECTION_COMMISSION_OF_INDIA.jpg" alt="Election Commission of India" width="400px">
   <h3>Secure, Transparent, and Accessible Digital Voting</h3>
 </div>
 
 ## 🔍 Overview
 
-VoteSecure is a cutting-edge digital voting verification platform that combines blockchain technology with advanced biometric verification to create a secure, transparent, and accessible electoral system. Designed specifically for the Indian electoral process, VoteSecure addresses key challenges in traditional voting systems: fraud prevention, accessibility for diverse populations, and real-time monitoring of electoral activities.
+BharatVerify is a cutting-edge digital voting verification platform that combines blockchain technology with advanced biometric verification to create a secure, transparent, and accessible electoral system. Designed specifically for the Indian electoral process, BharatVerify addresses key challenges in traditional voting systems: fraud prevention, accessibility for diverse populations, and real-time monitoring of electoral activities.
 
 <div align="center">
   <img src="/imgs/LoginPage.jpg" alt="Login Page" width="700px">
@@ -69,19 +69,58 @@ The dual-officer verification system ensures that any manual verification requir
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: Next.js with TypeScript and Tailwind CSS
-- **UI Components**: shadcn/ui component library
-- **Data Visualization**: Recharts for real-time analytics
-- **AI/ML Integration**: 
-  - Google's Gemini AI for technical support chatbot
-  - ML-KMeans for anomaly detection in voting patterns
-- **Authentication**: Multi-factor biometric authentication
-- **Database**: Secure, encrypted data storage with blockchain integration
-- **Responsive Design**: Fully functional across desktop and tablet devices
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40" height="40"/><br />
+        <b>Next.js</b><br />
+        Frontend Framework
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="40" height="40"/><br />
+        <b>TypeScript</b><br />
+        Type Safety
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" width="40" height="40"/><br />
+        <b>Tailwind CSS</b><br />
+        Styling
+      </td>
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40" height="40"/><br />
+        <b>shadcn/ui</b><br />
+        UI Components
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/22839396" width="40" height="40"/><br />
+        <b>Recharts</b><br />
+        Data Visualization
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/google-gemini.svg" width="40" height="40"/><br />
+        <b>Gemini AI</b><br />
+        Chatbot
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/256px-Ethereum_logo_2014.svg.png" width="40" height="40"/><br />
+        <b>Blockchain</b><br />
+        Secure Storage
+      </td>
+      <td align="center">
+        <img src="https://www.svgrepo.com/show/306500/react.svg" width="40" height="40"/><br />
+        <b>React</b><br />
+        UI Library
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🔒 Security Measures
 
-VoteSecure implements multiple layers of security:
+BharatVerify implements multiple layers of security:
 
 1. **Biometric Verification**: Uses unique physical identifiers that cannot be easily forged
 2. **Blockchain Records**: Creates immutable, tamper-proof verification records
