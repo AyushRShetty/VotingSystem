@@ -88,7 +88,7 @@ The dual-officer verification system ensures that any manual verification requir
         Styling
       </td>
       <td align="center">
-        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40" height="40"/><br />
+        <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/><br />
         <b>shadcn/ui</b><br />
         UI Components
       </td>
@@ -110,7 +110,7 @@ The dual-officer verification system ensures that any manual verification requir
         Secure Storage
       </td>
       <td align="center">
-        <img src="https://www.svgrepo.com/show/306500/react.svg" width="40" height="40"/><br />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="40" height="40"/><br />
         <b>React</b><br />
         UI Library
       </td>
