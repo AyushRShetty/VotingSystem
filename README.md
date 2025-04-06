@@ -13,6 +13,12 @@ VoteSecure is a cutting-edge digital voting verification platform that combines 
   <img src="/imgs/LoginPage.jpg" alt="Login Page" width="700px">
 </div>
 
+### System Architecture and Integration Flow
+<div align="center">
+  <img src="/Integration Flowchart (1).png" alt="Integration Flowchart" width="700px">
+  <p><em>The system architecture shows how voter data flows securely through verification, blockchain storage, and monitoring.</em></p>
+</div>
+
 ## ✨ Key Features
 
 ### 🔐 Multi-factor Biometric Verification
